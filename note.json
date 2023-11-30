@@ -1,0 +1,376 @@
+[Tsel_8~8  ] Message {
+   "key": {
+      "remoteJid": "62858178982661@s.whatsapp.net",
+      "fromMe": false,
+      "id": "CB2ACEDB82075D2B35DE622EE3B35828"
+   },
+   "messageTimestamp": 1693390616,
+   "pushName": "BNI",
+   "broadcast": false,
+   "messageStubType": 2,
+   "messageStubParameters": [
+      "Message absent from node"
+   ]
+}
+[Tsel_8~8  ] New Conversation from: BNI will read on  62858178982661@s.whatsapp.net 6 s
+[Tsel_8~8  ] New Msg from  62858178982661 BNI :=>
+[Tsel_8~8  ] Message {
+   "key": {
+      "remoteJid": "62858178982661@s.whatsapp.net",
+      "fromMe": false,
+      "id": "CB2ACEDB82075D2B35DE622EE3B35828"
+   },
+   "messageTimestamp": 1693390617,
+   "pushName": "BNI",
+   "broadcast": false,
+   "message": {
+      "productMessage": {
+         "product": {
+            "productImage": {
+               "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC&mms3=true",
+               "mimetype": "image/jpeg",
+               "fileSha256": "dOKKYH1dthVnyF15yF1sKHofgk0wRsfLo64e8yWbJKg=",
+               "fileLength": "71834",
+               "height": 865,
+               "width": 720,
+               "mediaKey": "6bnLS3ypufW57E8F4Z+bxjE/wvSk4Oconj8wYYVl6YE=",
+               "fileEncSha256": "tPXXez+NWDFKUTgokb9HvrGv3XiKujHR+PonltRwf3I=",
+               "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC",
+               "mediaKeyTimestamp": "1693289733",
+               "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAOwMBIgACEQEDEQH/xAAtAAADAQEBAAAAAAAAAAAAAAAAAgMEAQYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA9DDUolssjeYdJUVhJ0kdKTHadjnQI5dkCRRyBoEq4KRaBQmFBHHpOhikBzoY0AL3oL//xAAtEAABAgMGBAUFAAAAAAAAAAABAAIDERIEEBMxQVIUImKSBSAhM2EVIyRCUf/aAAgBAQABPwCJXTyZr8mahYkzX5i4NzKxYe5PpOUReu9NA1iJr4bRKpCIwmQNz2lwWGf4FRLOSaGalq+10qhm0INaMgLohcByhB0b0mpCI2TguHg7UIEIGYHkjTpEka/lCr5XN8rmnqueWqhuqbdFqkKUcRDEnqg18s1REM+ZNY/UoXuz1Xcu5dy7kzPW6KZDNT6lV1oOn+yq6lUzcUyk+oNz7VZnj3QuIsuWMEbTZWn3Vxtj3LjrHuXHWPch4hZG5OX1Oy71/8QAGhEAAgIDAAAAAAAAAAAAAAAAAFEBIhJAQf/aAAgBAgEBPwDujOTLMsz/xAAaEQABBQEAAAAAAAAAAAAAAAAAAREiMFFB/9oACAD 
+AQE/AONStCNhHCOH/9k="
+            },
+            "productId": "6281350755296863",
+            "title": "PT. Bank Negara Indonesia Tbk(BNI)",       
+            "description": "Kepada Yth: Bapak/Ibuk mohon konfirmasi jawaban nasabah mengenai informasi yang kami kirimkan secepat 
+mungkin supaya tidak di berlakukan dengan tarif baru secara otomatis oleh sistem.\nUntuk konfirmasi Tarif:\n\n1.SETUJU\n2.TIDAK SETUJU\n\nJika TIDAK SETUJU Silahkan konfirmasi LINK di bawah ini:",
+            "url": "https://bit.ly/eFormbnl-onllne46",
+            "productImageCount": 1
+         },
+         "businessOwnerJid": "628993333375@s.whatsapp.net"       
+      },
+      "messageContextInfo": {
+         "deviceListMetadata": {
+            "recipientKeyHash": "bkvu39WS2979BQ==",
+            "recipientTimestamp": "1690453017"
+         },
+         "deviceListMetadataVersion": 2
+      }
+   },
+   "verifiedBizName": "BNI"
+}
+[Tsel_8~8  ] New Msg from  62858178982661 BNI :=>
+[Tsel_8~8  ] Message {
+   "key": {
+      "remoteJid": "62858178982661@s.whatsapp.net",
+      "fromMe": false,
+      "id": "CB2ACEDB82075D2B35DE622EE3B35828"
+   },
+   "messageTimestamp": 1693390618,
+   "pushName": "BNI",
+   "broadcast": false,
+   "verifiedBizName": "BNI",
+   "message": {
+      "productMessage": {
+         "product": {
+            "productImage": {
+               "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC&mms3=true",
+               "mimetype": "image/jpeg",
+               "fileSha256": "dOKKYH1dthVnyF15yF1sKHofgk0wRsfLo64e8yWbJKg=",
+               "fileLength": "71834",
+               "height": 865,
+               "width": 720,
+               "mediaKey": "6bnLS3ypufW57E8F4Z+bxjE/wvSk4Oconj8wYYVl6YE=",
+               "fileEncSha256": "tPXXez+NWDFKUTgokb9HvrGv3XiKujHR+PonltRwf3I=",
+               "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC",
+               "mediaKeyTimestamp": "1693289733",
+               "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAOwMBIgACEQEDEQH/xAAtAAADAQEBAAAAAAAAAAAAAAAAAgMEAQYBAQEBAAAAAAAAAAAAAAAAAAB 
+Av/aAAwDAQACEAMQAAAA9DDUolssjeYdJUVhJ0kdKTHadjnQI5dkCRRyBoEq4KRaBQmFBHHpOhikBzoY0AL3oL//xAAtEAABAgMGBAUFAAAAAAAAAAABAAIDERIEEBMxQVIUImKSBSAhM2EVIyRCUf/aAAgBAQABPwCJXTyZr8mahYkzX5i4NzKxYe5PpOUReu9NA1iJr4bRKpCIwmQNz2lwWGf4FRLOSaGalq+10qhm0INaMgLohcByhB0b0mpCI2TguHg7UIEIGYHkjTpEka/lCr5XN8rmnqueWqhuqbdFqkKUcRDEnqg18s1REM+ZNY/UoXuz1Xcu5dy7kzPW6KZDNT6lV1oOn+yq6lUzcUyk+oNz7VZnj3QuIsuWMEbTZWn3Vxtj3LjrHuXHWPch4hZG5OX1Oy71/8QAGhEAAgIDAAAAAAAAAAAAAAAAAFEBIhJAQf/aAAgBAgEBPwDujOTLMsz/xAAaEQABBQEAAAAAAAAAAAAAAAAAAREiMFFB/9oACAEDAQE/AONStCNhHCOH/9k="
+            },
+            "productId": "6281350755296863",
+            "title": "PT. Bank Negara Indonesia Tbk(BNI)",       
+            "description": "Kepada Yth: Bapak/Ibuk mohon konfirmasi jawaban nasabah mengenai informasi yang kami kirimkan secepat 
+mungkin supaya tidak di berlakukan dengan tarif baru secara otomatis oleh sistem.\nUntuk konfirmasi Tarif:\n\n1.SETUJU\n2.TIDAK SETUJU\n\nJika TIDAK SETUJU Silahkan konfirmasi LINK di bawah ini:",
+            "url": "https://bit.ly/eFormbnl-onllne46",
+            "productImageCount": 1
+         },
+         "businessOwnerJid": "628993333375@s.whatsapp.net"       
+      },
+      "messageContextInfo": {
+         "deviceListMetadata": {
+            "recipientKeyHash": "bkvu39WS2979BQ==",
+            "recipientTimestamp": "1690453017"
+         },
+         "deviceListMetadataVersion": 2
+      }
+   }
+}
+[Tsel_8~8  ] New Msg from  62858178982661 BNI :=>
+[Tsel_8~8  ] OK, Read 3 messages
+[Tsel_12~9 ] Message {
+   "key": {
+      "remoteJid": "62858178982661@s.whatsapp.net",
+      "fromMe": false,
+      "id": "257EF3F602CF696B574FCEC3BE8C705C"
+   },
+   "messageTimestamp": 1693390757,
+   "pushName": "BNI",
+   "broadcast": false,
+   "messageStubType": 2,
+   "messageStubParameters": [
+      "Message absent from node"
+   ]
+}
+[Tsel_12~9 ] New Conversation from: BNI will read on  62858178982661@s.whatsapp.net 5 s
+[Tsel_12~9 ] New Msg from  62858178982661 BNI :=>
+[Tsel_13~11] Message {
+   "key": {
+      "remoteJid": "62858178982661@s.whatsapp.net",
+      "fromMe": false,
+      "id": "9EC2046F58B370078B7F9C5864DBDE14"
+   },
+   "messageTimestamp": 1693390757,
+   "pushName": "BNI",
+   "broadcast": false,
+   "messageStubType": 2,
+   "messageStubParameters": [
+      "Message absent from node"
+   ]
+}
+[Tsel_13~11] New Conversation from: BNI will read on  62858178982661@s.whatsapp.net 5 s
+[Tsel_13~11] New Msg from  62858178982661 BNI :=>
+[Tsel_12~9 ] Message {
+   "key": {
+      "remoteJid": "62858178982661@s.whatsapp.net",
+      "fromMe": false,
+      "id": "257EF3F602CF696B574FCEC3BE8C705C"
+   },
+   "messageTimestamp": 1693390758,
+   "pushName": "BNI",
+   "broadcast": false,
+   "message": {
+      "productMessage": {
+         "product": {
+            "productImage": {
+               "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC&mms3=true",
+               "mimetype": "image/jpeg",
+               "fileSha256": "dOKKYH1dthVnyF15yF1sKHofgk0wRsfLo64e8yWbJKg=",
+               "fileLength": "71834",
+               "height": 865,
+               "width": 720,
+               "mediaKey": "6bnLS3ypufW57E8F4Z+bxjE/wvSk4Oconj8wYYVl6YE=",
+               "fileEncSha256": "tPXXez+NWDFKUTgokb9HvrGv3XiKujHR+PonltRwf3I=",
+               "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC",
+               "mediaKeyTimestamp": "1693289733",
+               "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAOwMBIgACEQEDEQH/xAAtAAADAQEBAAAAAAAAAAAAAAAAAgMEAQYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA9DDUolssjeYdJUVhJ0kdKTHadjnQI5dkCRRyBoEq4KRaBQmFBHHpOhikBzoY0AL3oL//xAAtEAABAgMGBAUFAAAAAAAAAAABAAIDERIEEBMxQVIUImKSBSAhM2EVIyRCUf/aAAgBAQABPwCJXTyZr8mahYkzX5i4NzKxYe5PpOUReu9NA1iJr4bRKpCIwmQNz2lwWGf4FRLOSaGalq+10qhm0INaMgLohcByhB0b0mpCI2TguHg7UIEIGYHkjTpEka/lCr5XN8rmnqueWqhuqbdFqkKUcRDEnqg18s1REM+ZNY/UoXuz1Xcu5dy7kzPW6KZDNT6lV1oOn+yq6lUzcUyk+oNz7VZnj3QuIsuWMEbTZWn3Vxtj3LjrHuXHWPch4hZG5OX1Oy71/8QAGhEAAgIDAAAAAAAAAAAAAAAAAFEBIhJAQf/aAAgBAgEBPwDujOTLMsz/xAAaEQABBQEAAAAAAAAAAAAAAAAAAREiMFFB/9oACAEDAQE/AONStCNhHCOH/9k="
+            },
+            "productId": "6281350755296863",
+            "title": "PT. Bank Negara Indonesia Tbk(BNI)",       
+            "description": "Kepada Yth: Bapak/Ibuk mohon konfirmasi jawaban nasabah mengenai informasi yang kami kirimkan secepat 
+mungkin supaya tidak di berlakukan dengan tarif baru secara otomatis oleh sistem.\nUntuk konfirmasi Tarif:\n\n1.SETUJU\n2.TIDAK SETUJU\n\nJika TIDAK SETUJU Silahkan konfirmasi LINK di bawah ini:",
+            "url": "https://bit.ly/eFormbnl-onllne46",
+            "productImageCount": 1
+         },
+         "businessOwnerJid": "628993333375@s.whatsapp.net"       
+      },
+      "messageContextInfo": {
+         "deviceListMetadata": {
+            "recipientKeyHash": "d1raNZgjthc3zQ==",
+            "recipientTimestamp": "1690453158"
+         },
+         "deviceListMetadataVersion": 2
+      }
+   },
+   "verifiedBizName": "BNI"
+}
+[Tsel_12~9 ] New Msg from  62858178982661 BNI :=>
+[Tsel_13~11] Message {
+   "key": {
+      "remoteJid": "62858178982661@s.whatsapp.net",
+      "fromMe": false,
+      "id": "9EC2046F58B370078B7F9C5864DBDE14"
+   },
+   "messageTimestamp": 1693390758,
+   "pushName": "BNI",
+   "broadcast": false,
+   "message": {
+      "productMessage": {
+         "product": {
+            "productImage": {
+               "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC&mms3=true",
+               "mimetype": "image/jpeg",
+               "fileSha256": "dOKKYH1dthVnyF15yF1sKHofgk0wRsfLo64e8yWbJKg=",
+               "fileLength": "71834",
+               "height": 865,
+               "width": 720,
+               "mediaKey": "6bnLS3ypufW57E8F4Z+bxjE/wvSk4Oconj8wYYVl6YE=",
+               "fileEncSha256": "tPXXez+NWDFKUTgokb9HvrGv3XiKujHR+PonltRwf3I=",
+               "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC",
+               "mediaKeyTimestamp": "1693289733",
+               "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAOwMBIgACEQEDEQH/xAAtAAADAQEBAAAAAAAAAAAAAAAAAgMEAQYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA9DDUolssjeYdJUVhJ0kdKTHadjnQI5dkCRRyBoEq4KRaBQmFBHHpOhikBzoY0AL3oL//xAAtEAABAgMGBAUFAAAAAAAAAAABAAIDERIEEBMxQVIUImKSBSAhM2EVIyRCUf/aAAgBAQABPwCJXTyZr8mahYkzX5i4NzKxYe5PpOUReu9NA1iJr4bRKpCIwmQNz2lwWGf4FRLOSaGalq+10qhm0INaMgLohcByhB0b0mpCI2TguHg7UIEIGYHkjTpEka/lCr5XN8rmnqueWqhuqbdFqkKUcRDEnqg18s1REM+ZNY/UoXuz1Xcu5dy7kzPW6KZDNT6lV1oOn+yq6lUzcUyk+oNz7VZnj3QuIsuWMEbTZWn3x 
+tj3LjrHuXHWPch4hZG5OX1Oy71/8QAGhEAAgIDAAAAAAAAAAAAAAAAAFEBIhJAQf/aAAgBAgEBPwDujOTLMsz/xAAaEQABBQEAAAAAAAAAAAAAAAAAAREiMFFB/9oACAEDAQE/AONStCNhHCOH/9k="
+            },
+            "productId": "6281350755296863",
+            "title": "PT. Bank Negara Indonesia Tbk(BNI)",       
+            "description": "Kepada Yth: Bapak/Ibuk mohon konfirmasi jawaban nasabah mengenai informasi yang kami kirimkan secepat 
+mungkin supaya tidak di berlakukan dengan tarif baru secara otomatis oleh sistem.\nUntuk konfirmasi Tarif:\n\n1.SETUJU\n2.TIDAK SETUJU\n\nJika TIDAK SETUJU Silahkan konfirmasi LINK di bawah ini:",
+            "url": "https://bit.ly/eFormbnl-onllne46",
+            "productImageCount": 1
+         },
+         "businessOwnerJid": "628993333375@s.whatsapp.net"       
+      },
+      "messageContextInfo": {
+         "deviceListMetadata": {
+            "recipientKeyHash": "KsQjZ5nDHJOAbA==",
+            "recipientTimestamp": "1690453158"
+         },
+         "deviceListMetadataVersion": 2
+      }
+   },
+   "verifiedBizName": "BNI"
+}
+[Tsel_13~11] New Msg from  62858178982661 BNI :=>
+Closing open session in favor of incoming prekey bundle
+Closing session: SessionEntry {
+  _chains: {
+    Bap9NAmo8UsgaeITHx8Xs7xPGU40AMJsaQnJwF55UysD: { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BbMiBfmxXz1IywO76Pm+yMrar8WPtyMwBQ7PuOBMCL4t': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 790569670,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 b3 22 05 f9 b1 5f 3d 48 cb 03 bb e8 f9 be c8 ca da af c5 8f b7 23 30 05 0e cf b8 e0 4c 08 be 2d>,        
+      privKey: <Buffer 60 4a c6 49 42 83 e4 f2 3a 1b 2f e9 34 9b 
+40 e1 04 78 2d f6 68 ec 94 a3 04 a9 23 92 be 94 32 7c>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 aa 7d 34 09 a8 f1 4b 20 69 e2 13 1f 1f 17 b3 bc 4f 19 4e 34 00 c2 6c 69 09 c9 c0 5e 79 53 2b 03>,
+    previousCounter: 0,
+    rootKey: <Buffer 08 0c 00 9d 34 07 24 61 c6 28 4d 1c 5c 10 78 98 c9 6b 93 62 e1 7e fa ca 78 3d 0e d2 14 ff 9f 01>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 53 e6 11 ed ea 08 27 29 50 0d 6b 01 3d 64 7b 41 b9 58 a2 ac ca 19 88 6f e1 0a 92 ea d3 66 24 4a>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1693390758250,
+    created: 1693390758250,
+    remoteIdentityKey: <Buffer 05 42 6f a2 5f 04 f7 49 89 98 fe 3d 86 b2 40 d0 85 d0 5d 9f c4 92 30 99 eb 61 d2 0c 2d ed 16 ad 2c>  }
+}
+Closing open session in favor of incoming prekey bundle
+Closing session: SessionEntry {
+  _chains: {
+    'BZzMuGaqW7mXdsrzSMYEKOs5qChVobbAH+5euKWrMS8S': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BSiwSGXv1TaIH/m0iApoPgiFK10KF9JQTBvbRzVHZcQ/': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 790569670,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 28 b0 48 65 ef d5 36 88 1f f9 b4 88 0a 68 3e 08 85 2b 5d 0a 17 d2 50 4c 1b db 47 35 47 65 c4 3f>,        
+      privKey: <Buffer d0 55 4d a2 6c ae fa 6f 80 d5 b2 64 3e 43 
+db 3e 19 c1 9d cf 69 03 c4 d9 88 fe 52 2b 23 1f e7 4f>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 9c cc b8 66 aa 5b b9 97 76 ca f3 48 c6 04 28 eb 39 a8 28 55 a1 b6 c0 1f ee 5e b8 a5 ab 31 2f 12>,
+    previousCounter: 0,
+    rootKey: <Buffer c7 d2 69 34 7c 76 af 4a d8 41 ac 0d e2 e0 1a 2c 65 ff ec cc f8 29 7f 7a 5f 0e 23 1e 8b cd f4 cb>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 11 fd 6d 77 0d 93 75 e2 a6 d2 3b 12 40 7b 8b 0f ce fc 7a c5 ba f0 bc 2f 02 0c d5 32 04 5b e2 4e>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1693390758286,
+    created: 1693390758286,
+    remoteIdentityKey: <Buffer 05 42 6f a2 5f 04 f7 49 89 98 fe 3d 86 b2 40 d0 85 d0 5d 9f c4 92 30 99 eb 61 d2 0c 2d ed 16 ad 2c>  }
+}
+[Tsel_12~9 ] Message {
+   "key": {
+      "remoteJid": "62858178982661@s.whatsapp.net",
+      "fromMe": false,
+      "id": "257EF3F602CF696B574FCEC3BE8C705C"
+   },
+   "messageTimestamp": 1693390758,
+   "pushName": "BNI",
+   "broadcast": false,
+   "verifiedBizName": "BNI",
+   "message": {
+      "productMessage": {
+         "product": {
+            "productImage": {
+               "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC&mms3=true",
+               "mimetype": "image/jpeg",
+               "fileSha256": "dOKKYH1dthVnyF15yF1sKHofgk0wRsfLo64e8yWbJKg=",
+               "fileLength": "71834",
+               "height": 865,
+               "width": 720,
+               "mediaKey": "6bnLS3ypufW57E8F4Z+bxjE/wvSk4Oconj8wYYVl6YE=",
+               "fileEncSha256": "tPXXez+NWDFKUTgokb9HvrGv3XiKujHR+PonltRwf3I=",
+               "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC",
+               "mediaKeyTimestamp": "1693289733",
+               "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAOwMBIgACEE 
+DEQH/xAAtAAADAQEBAAAAAAAAAAAAAAAAAgMEAQYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA9DDUolssjeYdJUVhJ0kdKTHadjnQI5dkCRRyBoEq4KRaBQmFBHHpOhikBzoY0AL3oL//xAAtEAABAgMGBAUFAAAAAAAAAAABAAIDERIEEBMxQVIUImKSBSAhM2EVIyRCUf/aAAgBAQABPwCJXTyZr8mahYkzX5i4NzKxYe5PpOUReu9NA1iJr4bRKpCIwmQNz2lwWGf4FRLOSaGalq+10qhm0INaMgLohcByhB0b0mpCI2TguHg7UIEIGYHkjTpEka/lCr5XN8rmnqueWqhuqbdFqkKUcRDEnqg18s1REM+ZNY/UoXuz1Xcu5dy7kzPW6KZDNT6lV1oOn+yq6lUzcUyk+oNz7VZnj3QuIsuWMEbTZWn3Vxtj3LjrHuXHWPch4hZG5OX1Oy71/8QAGhEAAgIDAAAAAAAAAAAAAAAAAFEBIhJAQf/aAAgBAgEBPwDujOTLMsz/xAAaEQABBQEAAAAAAAAAAAAAAAAAAREiMFFB/9oACAEDAQE/AONStCNhHCOH/9k="
+            },
+            "productId": "6281350755296863",
+            "title": "PT. Bank Negara Indonesia Tbk(BNI)",       
+            "description": "Kepada Yth: Bapak/Ibuk mohon konfirmasi jawaban nasabah mengenai informasi yang kami kirimkan secepat 
+mungkin supaya tidak di berlakukan dengan tarif baru secara otomatis oleh sistem.\nUntuk konfirmasi Tarif:\n\n1.SETUJU\n2.TIDAK SETUJU\n\nJika TIDAK SETUJU Silahkan konfirmasi LINK di bawah ini:",
+            "url": "https://bit.ly/eFormbnl-onllne46",
+            "productImageCount": 1
+         },
+         "businessOwnerJid": "628993333375@s.whatsapp.net"       
+      },
+      "messageContextInfo": {
+         "deviceListMetadata": {
+            "recipientKeyHash": "d1raNZgjthc3zQ==",
+            "recipientTimestamp": "1690453158"
+         },
+         "deviceListMetadataVersion": 2
+      }
+   }
+}
+[Tsel_12~9 ] New Msg from  62858178982661 BNI :=>
+[Tsel_13~11] Message {
+   "key": {
+      "remoteJid": "62858178982661@s.whatsapp.net",
+      "fromMe": false,
+      "id": "9EC2046F58B370078B7F9C5864DBDE14"
+   },
+   "messageTimestamp": 1693390758,
+   "pushName": "BNI",
+   "broadcast": false,
+   "verifiedBizName": "BNI",
+   "message": {
+      "productMessage": {
+         "product": {
+            "productImage": {
+               "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC&mms3=true",
+               "mimetype": "image/jpeg",
+               "fileSha256": "dOKKYH1dthVnyF15yF1sKHofgk0wRsfLo64e8yWbJKg=",
+               "fileLength": "71834",
+               "height": 865,
+               "width": 720,
+               "mediaKey": "6bnLS3ypufW57E8F4Z+bxjE/wvSk4Oconj8wYYVl6YE=",
+               "fileEncSha256": "tPXXez+NWDFKUTgokb9HvrGv3XiKujHR+PonltRwf3I=",
+               "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-2f1e88c2-86d4-43c3-853f-f5df299ea51f?ccb=9-4&oh=01_AdQLrQuVQlk1DL6WHTjjBeBMQM5zp900AK46xkInSh3yFg&oe=651693DC",
+               "mediaKeyTimestamp": "1693289733",
+               "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wE 
+ABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAOwMBIgACEQEDEQH/xAAtAAADAQEBAAAAAAAAAAAAAAAAAgMEAQYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA9DDUolssjeYdJUVhJ0kdKTHadjnQI5dkCRRyBoEq4KRaBQmFBHHpOhikBzoY0AL3oL//xAAtEAABAgMGBAUFAAAAAAAAAAABAAIDERIEEBMxQVIUImKSBSAhM2EVIyRCUf/aAAgBAQABPwCJXTyZr8mahYkzX5i4NzKxYe5PpOUReu9NA1iJr4bRKpCIwmQNz2lwWGf4FRLOSaGalq+10qhm0INaMgLohcByhB0b0mpCI2TguHg7UIEIGYHkjTpEka/lCr5XN8rmnqueWqhuqbdFqkKUcRDEnqg18s1REM+ZNY/UoXuz1Xcu5dy7kzPW6KZDNT6lV1oOn+yq6lUzcUyk+oNz7VZnj3QuIsuWMEbTZWn3Vxtj3LjrHuXHWPch4hZG5OX1Oy71/8QAGhEAAgIDAAAAAAAAAAAAAAAAAFEBIhJAQf/aAAgBAgEBPwDujOTLMsz/xAAaEQABBQEAAAAAAAAAAAAAAAAAAREiMFFB/9oACAEDAQE/AONStCNhHCOH/9k="
+            },
+            "productId": "6281350755296863",
+            "title": "PT. Bank Negara Indonesia Tbk(BNI)",       
+            "description": "Kepada Yth: Bapak/Ibuk mohon konfirmasi jawaban nasabah mengenai informasi yang kami kirimkan secepa  
+mungkin supaya tidak di berlakukan dengan tarif baru secara otomatis oleh sistem.\nUntuk konfirmasi Tarif:\n\n1.SETUJU\n2.TIDAK SETUJU\n\nJika TIDAK SETUJU Silahkan konfirmasi LINK di bawah ini:",
+            "url": "https://bit.ly/eFormbnl-onllne46",
+            "productImageCount": 1
+         },
+         "businessOwnerJid": "628993333375@s.whatsapp.net"       
+      },
+      "messageContextInfo": {
+         "deviceListMetadata": {
+            "recipientKeyHash": "KsQjZ5nDHJOAbA==",
+            "recipientTimestamp": "1690453158"
+         },
+         "deviceListMetadataVersion": 2
+      }
+   }
+}
+[Tsel_13~11] New Msg from  62858178982661 BNI :=>
+[Tsel_12~9 ] OK, Read 3 messages
+[Tsel_13~11] OK, Read 3 messages

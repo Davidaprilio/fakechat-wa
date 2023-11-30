@@ -1,0 +1,15 @@
+reason native mobile API
+
+- no_route: 
+- code_checkpoint: adalah permintaan captcha saat pendaftaran, muncul jika SMS sudah berulang kali diminta dari nomor tersebut.
+- too_recent: Tunggu dulu sampai xxxx detik
+- 
+
+
+Required buat wa gateway API yang general, scalable, untuk diconsume berbagai aplikasi
+
+Endpoint
+- profiling
+- kirim pesan
+- set webhook
+- send webhook

@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@nlpjs/console-connector": "^4.26.1",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.5.0",
+    "ez-whatsapp": "^1.0.2",
+    "jetty": "^0.2.1",
+    "libphonenumber-js": "^1.10.37",
+    "node-cache": "^5.1.2",
+    "string-argv": "^0.3.2"
+  },
+  "license": "ISC"
+}
